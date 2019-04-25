@@ -1,6 +1,6 @@
 # Site settings
 languageCode = "en-us"
-baseurl = "https://example.org/"
+baseurl = "https://github.com/lifelord/lifelord.github.io"
 title = "Hugo fabric theme"
 theme = "hugo-fabric"
 
